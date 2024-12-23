@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(199, 255, 236);
+}
+table img{
+    width: 100px;
+    height: 100px;
+}
+table, th, td {
+    border:1px solid black;
+  }
